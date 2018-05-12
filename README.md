@@ -1,2 +1,2 @@
 # UnitTestAndDecoratorLogger
-Unit test and Log functionality example, for research purposes on a timeseries regression problem using ARIMA
+Unit test and logging example for research purposes on (simple) supervised classification problem using the MNIST dataset.
